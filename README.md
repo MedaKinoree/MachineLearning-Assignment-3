@@ -7,6 +7,6 @@ Machine Learning
 Course Id: CS 5710
 CRN: 12675
 
-I have developed this assignment in Jupyter Notebook. The programming language I have used is Python. In this we have used some Classification algorithms like Naive Bayes, Support Vector Machine(SVM) etc.
+I have developed this assignment in Jupyter Notebook. The programming language I have used is Python. In this we have used some Classification algorithms like Naive Bayes, Support Vector Machine(SVM) etc. We are using datasets like titanic and glass. 
 
-Video Link: 
+Video Link: https://drive.google.com/drive/folders/1cNnpzlyhjjxtrhVhB5cmzT1cS6Jbas6R?usp=sharing
